@@ -34,7 +34,7 @@ Atualmente evoluindo meus conhecimentos em Engenharia de Dados por meio de proje
 
 Arquitetura local de Data Warehouse utilizando Python, Airflow, PostgreSQL, dbt e Docker, com organização em camadas Bronze, Silver e Gold.
 
-🚀 **Projeto de Engenharia de Dados em Cloud**
+🚀 **[Projeto de Engenharia de Dados em Cloud](https://github.com/tonymiguelsilva/projeto-cloud-gcp-data-engineering)**
 
 Em desenvolvimento, explorando ingestão de dados, Cloud Storage, BigQuery, Airflow e dbt.
 
