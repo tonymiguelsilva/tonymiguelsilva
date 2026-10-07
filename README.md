@@ -36,7 +36,7 @@ Arquitetura local de Data Warehouse utilizando Python, Airflow, PostgreSQL, dbt 
 
 🚀 **[Projeto de Engenharia de Dados em Cloud](https://github.com/tonymiguelsilva/projeto-cloud-gcp-data-engineering)**
 
-Em desenvolvimento, explorando ingestão de dados, Cloud Storage, BigQuery, Airflow e dbt.
+Pipeline completo de Engenharia de Dados na Google Cloud, com ingestão incremental, GCS, BigQuery, dbt, Airflow, Data Quality, modelagem dimensional e camadas Bronze, Silver e Gold.
 
 ---
 
